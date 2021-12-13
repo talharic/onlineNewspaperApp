@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SanalGazete</string>
+    <string name="sanalGazete">Sanal Gazete</string>
+    <string name="kategori">Kategori</string>
+    <string name="yeni_baslik">Yeni Başlık</string>
+    <string name="alt_baslik">Alt Başlık</string>
+</resources>
