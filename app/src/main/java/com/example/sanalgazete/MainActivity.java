@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity implements CategoryRVAdapter
     }
 
     private void getCategories(){
-        categoryRVModalArrayList.add(new CategoryRVModal("All", "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaG5vbG9neXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"));
+        categoryRVModalArrayList.add(new CategoryRVModal("All", "https://media.istockphoto.com/photos/newspapers-picture-id513051742?b=1&k=20&m=513051742&s=170667a&w=0&h=ax1sVBU4REigOoOp3c28CntSSDKvg-eHIiSzOIPV6sM="));
         categoryRVModalArrayList.add(new CategoryRVModal("Technology", "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaG5vbG9neXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"));
         categoryRVModalArrayList.add(new CategoryRVModal("Science", "https://media.istockphoto.com/photos/asian-female-doctor-working-with-pathogen-samples-using-microscope-picture-id1256323051?b=1&k=20&m=1256323051&s=170667a&w=0&h=mrZs1Fzc0yjnus3l0WALeqTgE7SWhdPpBZ4C6gTQ2Wg="));
         categoryRVModalArrayList.add(new CategoryRVModal("Sport", "https://media.istockphoto.com/photos/various-sport-equipments-on-grass-picture-id949190736?b=1&k=20&m=949190736&s=170667a&w=0&h=f3ofVqhbmg2XSVOa3dqmvGtHc4VLA_rtbboRGaC8eNo="));
