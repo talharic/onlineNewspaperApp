@@ -35,14 +35,13 @@
     </androidx.appcompat.widget.Toolbar>
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/idRVKategori"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/idRVKategori"
-        tools:listitem="@layout/kategori_rv_item"
-        android:orientation="horizontal"
         android:layout_below="@+id/idToolbar"
+        android:orientation="horizontal"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-        />
+        tools:listitem="@layout/kategori_rv_item" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
