@@ -1,5 +1,5 @@
 # Online Newspaper App / Android Studio / Java
-## Haber API’leri [newsapi.org](https://newsapi.org/)  sitesinden "Turkey" seçilerek Türkiye’ye ki bütün haberlerin alınması sağlanmıştır. 
+## Haber API’leri [newsapi.org](https://newsapi.org/)  sitesinden "Turkey" seçilerek Türkiye’deki bütün haberlerin alınması sağlanmıştır. 
 
 ### Projenin Ekran Görüntüleri;
 
